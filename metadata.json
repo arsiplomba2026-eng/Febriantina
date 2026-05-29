@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Law",
+  "description": "Aplikasi transparansi, akuntabilitas, dan partisipasi publik berbasis Legal Data Integrity untuk legislasi nasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
